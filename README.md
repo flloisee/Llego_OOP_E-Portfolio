@@ -6,7 +6,11 @@
 <h4>Midterm Projects:</h4>
 <ul>
   <li>About Me</li>
+  <li>Assignment #1 - Introduction to Java</li>
   <li>Activity #1 - Code Analysis</li>
   <li>Activity #2 - Operators</li>
-  <li>Assignment #1 - </li>
+  <li>Activity #3 - Secure ATM System</li>
+  <li>Activity #4 - Student Payment System</li>
+  <li>Activity #5 - Personal Expense Tracker</li>
+  <li>Reflections about quizzes, seatworks, and exams</li>
 </ul>
