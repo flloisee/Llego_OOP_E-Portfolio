@@ -33,4 +33,4 @@
   <li>+63 929-138-7379</li>
 </ul>
 <h1>🧩 Extras</h1>
-<p>I also made a small unfinished project to try out OOP concepts! If you want to check it out, check out this link: https://github.com/flloisee/SimpleChess</p>
+<p>I also made a small unfinished project to try out OOP concepts! If you want to check it out, go to this repository: https://github.com/flloisee/SimpleChess</p>
