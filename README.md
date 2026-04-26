@@ -5,6 +5,7 @@
 <h1 >📑 About the E-Portfolio</h1>
 <h3>This E-Portfolio contains:</h3>
 <ul>
+  <li>Java Source Codes of coding activities</li>
   <li>About Me</li>
   <li>Assignment #1 - Introduction to Java</li>
   <li>Activity #1 - Code Analysis</li>
