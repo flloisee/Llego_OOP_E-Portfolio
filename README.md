@@ -1,9 +1,9 @@
-<h1>About me</h1>
-<p1>My name is Francis Llego from BSIT 2-1N, and I'm currently taking the course COMP 009 Object Oriented Programming.</p1><br>
-<p1>This e-portfolio contains all of my midterms and future final projects, which demonstrates my knowledge in Object Oriented Programming, and in Java as well.</p1>
+<h1 align="center">👋 About me</h1>
+<p>My name is Francis Llego from BSIT 2-1N, and I'm currently taking the course COMP 009 Object Oriented Programming.</p>
+<p>This e-portfolio contains all of my midterms and future final projects, which demonstrates my knowledge in Object Oriented Programming, and in Java as well.</p>
 
-<h1>About the E-Portfolio</h1>
-<h4>Midterm Projects:</h4>
+<h1 align="center">📑 About the E-Portfolio</h1>
+<h3>Midterm Projects:</h3>
 <ul>
   <li>About Me</li>
   <li>Assignment #1 - Introduction to Java</li>
